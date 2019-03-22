@@ -1,0 +1,12 @@
+@import "~@blueprintjs/core/lib/scss/variables";
+body {
+  background-color: $pt-dark-app-background-color;
+}
+.App {
+  font-family: sans-serif;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
